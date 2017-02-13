@@ -2,4 +2,4 @@
 Drew a 2D lollipop
 
 # Result
-![Lollipop](/Capture.PNG)
+![Lollipop](Capture.PNG?raw=true)
